@@ -1,0 +1,11 @@
+ここに画像を配置してください。
+
+background.png  背景画像（600×600推奨）
+player.png      操作するプレイヤー画像（透過PNG推奨）
+meat.png        肉（透過PNG推奨）
+coin.png        コイン（透過PNG推奨）
+cat.png         猫（透過PNG推奨）
+fish.png        魚（透過PNG推奨）
+gem.png         宝石（透過PNG推奨）
+
+画像ファイル名は game.js の ITEM_DATA と一致させてください。
